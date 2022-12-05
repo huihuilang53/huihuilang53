@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ### Yoo, I'm chun 👋
 
@@ -51,7 +51,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
 
 - 🥈 Working Use: 
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 ![Redux](https://img.shields.io/badge/-Redux-%23764abc?style=flat-square&logo=redux)
