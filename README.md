@@ -64,7 +64,7 @@
 - 🥉 Learning for: 
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
-![express](https://img.shields.io/badge/-Koa2-%23764abc?style=flat-square)
+![express]<img src="https://img.shields.io/badge/-Express-%33A2?style=flat-square&logo=Express">
 
 -  Just Studied:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
